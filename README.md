@@ -6,3 +6,6 @@
 - 📫 How to reach me 75wf5ofld@mozmail.com
 
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
+
+
